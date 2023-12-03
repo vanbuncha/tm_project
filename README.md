@@ -1,1 +1,2 @@
-# tm_project
+# Final project for Text mining at Leiden University
+
